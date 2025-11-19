@@ -1,5 +1,5 @@
 
-# 🎶 Spotify Listening Analytics Dashboard
+# **🎶 Spotify Listening Analytics Dashboard**
 A comprehensive Power BI solution that transforms complex music streaming data into actionable insights. This interactive dashboard analyzes 953 popular tracks from 2023, helping stakeholders understand listening patterns, track characteristics, and artist performance in an era where 120,000 new songs are uploaded to streaming platforms daily.
 
 ![Logo](Spotify.png)
